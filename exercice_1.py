@@ -6,6 +6,6 @@ def get_indexes(my_list, value_to_get):
     
     print(indexes)
       
-my_list=[1,2,3,4,5,1]
+my_list=[-2,1,-2,3,-2,4,-2,1]
 
-get_indexes(my_list,1)
+get_indexes(my_list,-2)
